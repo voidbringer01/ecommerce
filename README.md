@@ -1,4 +1,4 @@
-# ecommerce
+# Ecommerce
 Ecommerce app made with MEAN stack.
 
 I split the repo in two.  
